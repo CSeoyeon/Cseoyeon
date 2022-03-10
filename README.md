@@ -10,7 +10,8 @@ Tech Stack
 </div>
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493)]
+(https://solved.ac/com10493)
 
 
 <!--
