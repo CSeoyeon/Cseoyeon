@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br/>
   <a href="mailto:choiseoyeon0223@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=Gmail&logoColor=white&link=choiseoyeon0223@gmail.com"/></a>
 <br/>
 <br/>
