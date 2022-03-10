@@ -1,18 +1,26 @@
 ### Hi there 👋
+<br/>
+  <a href="mailto:choiseoyeon0223@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=Gmail&logoColor=white&link=choiseoyeon0223@gmail.com"/></a>
+<br/>
+<br/>
 
-
-
-<!--div align='center'-->
-  
 #### Tech Stack
+<br/>
 <div>
 <img src="https://img.shields.io/badge/Java-green?style=plastic&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-lightyellow?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-lightblue?style=plastic&logo=MySQl&logoColor=4479A1"/>
 </div>
 
-
+<br/>
+<br/>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493">
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSeoyeon&layout=compact)](https://github.com/CSeoyeon/github-readme-stats)
+
+
+
 
 <!--
 **CSeoyeon/Cseoyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
