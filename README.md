@@ -1,17 +1,21 @@
 ### Hi there 👋
 
 
-Tech Stack
 
+<div align='center'>
+  
+#### Tech Stack
 
-<div>
-<img src="https://img.shields.io/badge/Java-lightgreen?style=flat&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-lightyellow?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Java-green?style=plastic&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Python-lightyellow?style=plastic&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/MySQL-lightblue?style=plastic&logo=MySQl&logoColor=4479A1"/>
 </div>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493)]
-(https://solved.ac/com10493)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493)](https://solved.ac/com10493)
+
 
 
 <!--
