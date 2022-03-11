@@ -3,14 +3,14 @@
 <br/>
 <br/>
 
-#### Tech Stack
+#### 🌵Tech Stack🌵
 <div>
 <img src="https://img.shields.io/badge/Java-green?style=plastic&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-lightyellow?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-lightblue?style=plastic&logo=MySQl&logoColor=4479A1"/>
 </div>
 
-#### Studying
+#### 🌄 Studying
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 <br/>
 <br/>
