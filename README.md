@@ -4,17 +4,18 @@
 <br/>
 
 #### Tech Stack
-<br/>
 <div>
 <img src="https://img.shields.io/badge/Java-green?style=plastic&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-lightyellow?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-lightblue?style=plastic&logo=MySQl&logoColor=4479A1"/>
 </div>
 
+#### Studying
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 <br/>
 <br/>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493">
-<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSeoyeon&layout=compact)](https://github.com/CSeoyeon/github-readme-stats)
 
