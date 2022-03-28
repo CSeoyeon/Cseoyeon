@@ -10,9 +10,11 @@
 <img src="https://img.shields.io/badge/MySQL-lightblue?style=plastic&logo=MySQl&logoColor=4479A1"/>
 </div>
 
+<!--
 #### 🌄 Studying
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 <br/>
+-->
 <br/>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com10493">
 
